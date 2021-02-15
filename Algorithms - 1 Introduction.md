@@ -1,8 +1,9 @@
 ### Algorithms - 1 Brief Introduction
-
-[TOC]
-
-
+* [Algorithms \- 1 Brief Introduction](#algorithms---1-brief-introduction)
+  * [What we focus on the algorithms:](#what-we-focus-on-the-algorithms)
+    * [1\. Correctness:](#1-correctness)
+    * [2\. Running Time](#2-running-time)
+  * [Method \- Divide and Conquer](#method---divide-and-conquer)
 
 #### What we focus on the algorithms:
 
