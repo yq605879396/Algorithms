@@ -25,8 +25,8 @@
 > >
 > > > **insertion sort** 
 > > >
-> > > > ```python
-> > > > INSERTION-SORT(A)：
+> > > > ```pseudocode
+> > > > INSERTION-SORT(A)
 > > > > 	for j in range(2, len(A)): # after every loop A[:j] is sorted
 > > > >   		key = A[j]
 > > > >   		i = j - 1
@@ -44,8 +44,8 @@
 > > >
 > > > > https://stackoverflow.com/questions/39492263/prove-correctness-of-power-algorithm-using-loop-invariance
 > > > >
-> > > > ```python
-> > > > def Pow(x,y):
+> > > > ```pseudocode
+> > > > def Pow(x,y)
 > > > > 	e = 1
 > > > > 	while(y>0):
 > > > > 		if y%2 ==0:
@@ -87,6 +87,15 @@
 > > >
 > > > Asymptotic Lower Bound Notation:
 > > > Big-Theta: $f(n)$ is $\theta(g(n))$ if it is both $O(g(n))$ and $\Omega(g(n))$
+> >
+> > Some useful facts:
+> >
+> > > $log_{200} n  \in log_2n $
+> > > $logn! \in nlogn$
+> > > $n^n$ dominant $n!$ dominant $C^n$
+> > >
+> > > $log_ab = log_a c^{log_cb} = log_cb \cdot log_ac$
+> > > Stirling's approximation: $n! =\sqrt{2\pi n} (\frac{n}{e})^n(1+O(\frac{1}{n}))$  
 > >
 > > https://www.desmos.com/calculator/0zirxhft0q Drawing lines
 
