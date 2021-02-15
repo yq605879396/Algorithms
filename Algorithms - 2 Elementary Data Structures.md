@@ -1,8 +1,22 @@
 ## Algorithms - 2 Data Structures
 
-
-
-[TOC]
+* [Algorithms \- 2 Data Structures](#algorithms---2-data-structures)
+    * [Data Structure](#data-structure)
+    * [Basic Abstract Data Types (ADTs)](#basic-abstract-data-types-adts)
+      * [list](#list)
+      * [stack](#stack)
+      * [queue](#queue)
+        * [Priority queue](#priority-queue)
+      * [set](#set)
+      * [dictionary](#dictionary)
+    * [Common data structures](#common-data-structures)
+      * [heap](#heap)
+      * [array](#array)
+      * [Hash](#hash)
+        * [Hashing and Hash Tables](#hashing-and-hash-tables)
+        * [Universal Hashing:](#universal-hashing)
+      * [Perfect Hashing](#perfect-hashing)
+      * [tree](#tree)
 
 #### Data Structure
 
